@@ -1,2 +1,7 @@
 some content
 some more content
+<<<<<<< HEAD
+=======
+last items
+last items
+>>>>>>> my-great-feature
